@@ -16,7 +16,7 @@ window.onscroll=()=>{
     }
 }
 
-let countdate= new Date("May 10, 2023 15:37:25").getTime();;
+let countdate= new Date("May 30, 2023 15:37:25").getTime();;
 
 function count(){
     let now = new Date().getTime();
